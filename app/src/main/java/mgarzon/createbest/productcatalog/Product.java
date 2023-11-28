@@ -5,6 +5,7 @@ package mgarzon.createbest.productcatalog;
  */
 
 public class Product {
+    
     private String _id;
     private String _productname;
     private double _price;
